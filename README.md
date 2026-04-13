@@ -14,7 +14,7 @@
 | --- | --- | --- |
 | 1 | 취리히 → 인터라켄 | 도착, Swiss Travel Pass 활성화 |
 | 2 | 그린델발트 | 피르스트→바흐알프제 10km 트레킹 |
-| 3 | 라우터브루넨 | 패러글라이딩 + 스타우바흐 폭포 |
+| 3 | 쉬니게 플라테 · 라우터브루넨 | 알프스 파노라마 전망 + 스타우바흐 폭포 |
 | 4 | 체르마트 | 고르너그라트 철도 + 하이킹 |
 | 5 | 마터호른 | 5 Lakes Walk 14km |
 | 6 | 제네바 | ★파텍 필립 뮤지엄 |
@@ -40,6 +40,6 @@
 - [ ] 항공권 확정
 - [ ] [Swiss Travel Pass 구매](https://www.swiss-system.com/en/swiss-travel-pass)
 - [ ] 숙소 예약 (위 링크)
-- [ ] [패러글라이딩 예약 (Day 3)](https://www.paragliding-interlaken.ch/)
+- [ ] 쉬니게 플라테 열차 시간 확인 (Day 3, Swiss Travel Pass 할인 적용)
 - [ ] [에귀 뒤 미디 케이블카 예약 (Day 7)](https://www.montblancnaturalresort.com/en/aiguille-du-midi)
 - [ ] [파텍 필립 뮤지엄 티켓 (Day 6)](https://www.patek.com/en/company/patek-philippe-museum)
