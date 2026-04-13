@@ -38,6 +38,20 @@
 
 ---
 
+## 레스토랑 예약
+
+| Day | 레스토랑 | 메뉴 | 예약 |
+| --- | --- | --- | --- |
+| 1 | Hüsi Bierhaus (인터라켄) | 생맥주 + 학센 | [공식사이트](https://huesi-bierhaus.com/contact/) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188081-d6680291-Reviews-Husi_Bierhaus-Interlaken_Bernese_Oberland_Canton_of_Bern.html) |
+| 2 | Restaurant Des Alpes (인터라켄) | 퐁뒤 + 슈니첼 | [온라인 예약](https://desalpesinterlaken.ch/en/reservation/) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188081-d25184719-Reviews-Des_Alpes_Interlaken_Restaurant_Bar-Interlaken_Bernese_Oberland_Canton_of_Bern.html) |
+| 4 | Restaurant Julen (체르마트) | 구운 양고기 + 라클렛 | [공식사이트](https://www.julen.ch/en/restaurant-julen/) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188098-d1654342-Reviews-Restaurant_Julen-Zermatt_Canton_of_Valais_Swiss_Alps.html) |
+| 5 | Saycheese! (체르마트) | 트러플 퐁뒤 | [TheFork 예약](https://www.thefork.com/restaurant/saycheese-r723843) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188098-d7355246-Reviews-Saycheese-Zermatt_Canton_of_Valais_Swiss_Alps.html) |
+| 6 | Au Petit Chalet (제네바) | 뢰스티 · 퐁뒤 | [공식사이트](https://aupetitchalet.ch/en/) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188057-d2290289-Reviews-Au_Petit_Chalet-Geneva.html) |
+
+> Day 3은 Coop/델리 코너로 가볍게, Day 7은 샤모니 시내에서 자유식
+
+---
+
 ## 사전 예약 필수
 
 - [ ] 항공권 확정
