@@ -150,7 +150,16 @@
 | 제네바 2박 | ~₩10만 (ibis Budget) | ~₩12-18만 (CHF 80-120) | ibis가 이미 저렴 + 공항 셔틀 포함, **호텔 유지** |
 
 > **결론**: 인터라켄만 Airbnb가 절감 효과 있음 (3박 기준 최대 ₩36만 절감 가능). 체르마트·제네바는 현재 호텔 대안이 더 유리.
-> - [Airbnb 인터라켄 검색](https://www.airbnb.com/interlaken-switzerland/stays/apartments) · [Airbnb 체르마트](https://www.airbnb.com/zermatt-switzerland/stays/apartments) · [AirDNA 제네바](https://www.airdna.co/top/ch/geneva)
+
+### 인터라켄 Airbnb 추천 (7/4~7/7, 3박, 2인)
+
+| 지역 | 특징 | 예상 가격 (1박) | 링크 |
+| --- | --- | --- | --- |
+| **Matten bei Interlaken** (Ost역 근처) | Ost역 가까워 그린델발트·체르마트 이동 편리, 알프스·툰 호수 뷰, 스튜디오+주방+테라스 | CHF 70-100 (~₩13-19만) | [Airbnb 검색](https://www.airbnb.com/matten-bei-interlaken-switzerland/stays/apartments) |
+| **Unterseen** (West역 도보 5분) | 구시가지 분위기, 레스토랑 밀집, 묀히·융프라우 전망 발코니 | CHF 80-110 (~₩15-21만) | [Airbnb 검색](https://www.airbnb.com/rooms/25667502) |
+| **인터라켄 시내** (Mountain View) | 아이거·묀히·융프라우 남향 발코니, 주방 완비 | CHF 90-120 (~₩17-23만) | [Airbnb 검색](https://www.airbnb.com/rooms/19610155) |
+
+> **검색 팁**: 날짜 7/4~7/7, 게스트 2명, "Entire place" 필터. **Matten (Ost역 근처) 우선 추천** — Day 2 그린델발트, Day 4 체르마트 이동 모두 Ost역 출발.
 
 ---
 
