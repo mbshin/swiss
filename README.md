@@ -105,7 +105,7 @@
 |------|------|
 | **오전** | ★AI For Good 컨퍼런스 참석 (마지막날) |
 | **오후** | 제트도(Jet d'Eau) 대분수 140m 감상 → 생피에르 대성당 → 구시가지 산책 |
-| **저녁 추천** | Au Petit Chalet — 뢰스티 · 퐁뒤 |
+| **저녁 추천** | ★Chez Philippe — 자작나무 숯불 스테이크 (미슐랭 빕 구르망, [예약](https://chezphilippe.ch/en/booking/)) |
 | **숙소** | 제네바 공항 인근 ibis Aeroport |
 
 ### Day 8 (7/11 토) — 귀국
@@ -162,9 +162,10 @@
 | 2 | Restaurant Des Alpes (인터라켄) | 퐁뒤 + 슈니첼 | [온라인 예약](https://desalpesinterlaken.ch/en/reservation/) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188081-d25184719-Reviews-Des_Alpes_Interlaken_Restaurant_Bar-Interlaken_Bernese_Oberland_Canton_of_Bern.html) |
 | 4 | Restaurant Julen (체르마트) | 구운 양고기 + 라클렛 | [공식사이트](https://www.julen.ch/en/restaurant-julen/) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188098-d1654342-Reviews-Restaurant_Julen-Zermatt_Canton_of_Valais_Swiss_Alps.html) |
 | 5 | Saycheese! (체르마트) | 트러플 퐁뒤 | [TheFork 예약](https://www.thefork.com/restaurant/saycheese-r723843) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188098-d7355246-Reviews-Saycheese-Zermatt_Canton_of_Valais_Swiss_Alps.html) |
-| 7 | Au Petit Chalet (제네바) | 뢰스티 · 퐁뒤 | [공식사이트](https://aupetitchalet.ch/en/) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188057-d2290289-Reviews-Au_Petit_Chalet-Geneva.html) |
+| 7 | ★Chez Philippe (제네바) | 숯불 스테이크 · 뉴욕 그릴 | [공식사이트](https://chezphilippe.ch/en/) · [예약](https://chezphilippe.ch/en/booking/) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188057-d8796275-Reviews-Chez_Philippe-Geneva.html) |
 
 > Day 3은 Coop/델리 코너로 가볍게, Day 6은 샤모니 시내에서 자유식
+> ★ Day 7 Chez Philippe: 미슐랭 빕 구르망 (Bib Gourmand) 선정. 자작나무 숯불 그릴, 코베 비프·아이리쉬 램 등 최고급 육류. Passage des Lions, Rue du Rhône 8.
 
 ---
 
