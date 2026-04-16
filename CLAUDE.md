@@ -37,6 +37,7 @@
 - 1인 예상 총 비용 산출 추가 (절약형 ₩405만 / 가성비형 ₩461만 / 표준형 ₩554만)
 - Day 7 저녁: Au Petit Chalet → Chez Philippe (미슐랭 빕 구르망, 숯불 스테이크)
 - 인터라켄 Airbnb 추천 3곳 추가 (Matten·Unterseen·시내)
+- 숙소 찜 목록 추가 (인터라켄 Airbnb·체르마트 Walliserhof·제네바 ibis)
 
 ## 주의사항
 

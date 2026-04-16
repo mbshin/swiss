@@ -163,6 +163,16 @@
 
 ---
 
+## 찜 목록
+
+| 지역 | 숙소 | 날짜 | 특징 | 링크 |
+| --- | --- | --- | --- | --- |
+| **Unterseen** (인터라켄) | Apartment in Interlaken (Unterseen) | 7/4~7/7 (3박) | Unterseen 구시가지 중심, West역 도보 5분 | [Airbnb](https://www.airbnb.com/rooms/30463268) |
+| **체르마트** | Walliserhof Zermatt 1896 ★★★ | 7/7~7/9 (2박) | 역 도보 5분, 발레 샬레 스타일, 스파·사우나, 평점 8.9 | [Booking.com](https://www.booking.com/hotel/ch/swissqwalliserhof.html) · [공식사이트](https://www.walliserhof-zermatt.ch/en/home-english/) |
+| **제네바** | ibis Genève Aéroport ★★★ | 7/9~7/11 (2박) | 공항 셔틀 포함, 가성비 좋음 | [Booking.com](https://www.booking.com/hotel/ch/geneve-aeroport.html) |
+
+---
+
 ## 레스토랑 예약
 
 | Day | 레스토랑 | 메뉴 | 예약 |
