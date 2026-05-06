@@ -1,8 +1,10 @@
-# 🇨🇭 스위스 7박 8일 트레킹 & 미식 여행
+# 🏌️ 알프스 7박 8일 골프 트립 (스위스 · 오스트리아 · 프랑스)
 
-**2026년 7월 4일 (토) ~ 7월 11일 (토)** · 40대 남성 2인
+**2026년 7월 4일 (토) ~ 7월 11일 (토)** · 40대 남성 2인 · **5라운드 (1라운드/일)**
 
-인터라켄 3박 → 체르마트 2박 → 제네바 2박
+취리히 도착 → Bregenz(오스트리아) 1박 → 제펠트(티롤) 2박 → 크랑몬타나(스위스) 2박 → 제네바(스위스) 2박 → 제네바 출국
+
+> 트레킹/체르마트 일정 폐기, 골프 중심 재구성. 7/10 AI For Good 컨퍼런스 마지막날 참석은 유지. 이동은 모두 **오전 라운드 후 오후**로 배치.
 
 ---
 
@@ -27,166 +29,175 @@
 
 - **SWISS (LX 123)**: [swiss.com](https://www.swiss.com) 로그인 → 예약 관리 → "Upgrade with Miles" 또는 "Bid for Upgrade" 옵션 확인. 출발 72시간 전부터 온라인 체크인 시 잔여석 기반 유상 업그레이드 제안이 뜰 수 있음
 - **Lufthansa (LH 718)**: [lufthansa.com](https://www.lufthansa.com) 예약 관리 → "myOffer" 입찰 업그레이드 (출발 약 72시간 전~30일 전 이메일 안내). 편도 기준 €300~800 수준 입찰 가능
-- **공항 카운터**: 체크인 시 빈 좌석이 있으면 현장 유상 업그레이드 가능 (운에 따라 다름)
-- **우선순위**: 장거리 구간(ICN↔ZRH 13h, MUC→ICN 11h)에 집중. 제네바→뮌헨 단거리(1h 15m)는 불필요
-- **해외연수 지원금 참고**: 최대 600만원 내에서 항공권 비용 증가 시 체류비가 줄어들 수 있으므로 비용 대비 검토 필요
+- **공항 카운터**: 체크인 시 빈 좌석이 있으면 현장 유상 업그레이드 가능
+- **우선순위**: 장거리 구간(ICN↔ZRH 13h, MUC→ICN 11h)에 집중
+
+---
+
+## 렌터카
+
+| 항목 | 내용 |
+| --- | --- |
+| 픽업 | 취리히 공항 (ZRH) — 7/4 (토) 도착 후 |
+| 반납 | 제네바 공항 (GVA) — 7/11 (토) 출국 전 |
+| 형식 | **편도(one-way)** · 골프백 2개 + 캐리어 2개 수용 가능한 SUV/왜건 권장 |
+| 추천 차종 | VW Tiguan · BMW X1 · Audi Q3 · Mercedes GLA |
+| 예상 비용 | €600~900 (편도 수수료 ~€100-200 포함, 풀 보험 포함) |
+| 주요 업체 | [Hertz](https://www.hertz.com) · [Sixt](https://www.sixt.com) · [Europcar](https://www.europcar.com) · [DiscoverCars](https://www.discovercars.com) (가격 비교) |
+
+> **편도 픽업 팁**: ZRH→GVA 편도는 도시 간 차량 회수 비용이 붙음. Sixt가 알프스 권역 편도 정책 가장 유리.
+> **운전 면허**: 국제운전면허증 필수 (스위스/오스트리아/프랑스 모두 인정).
+> **고속도로 통행료**: 스위스 비넷(Vignette CHF 40, 1년) · 오스트리아 비넷(€11.50, 10일) — 렌터카 포함 여부 확인. 프랑스는 구간별 톨게이트.
 
 ---
 
 ## 일정 요약
 
-| Day | 날짜 | 지역 | 핵심 |
-| --- | --- | --- | --- |
-| 1 | 7/4 (토) | 취리히 → 인터라켄 | 도착, Swiss Travel Pass 활성화 |
-| 2 | 7/5 (일) | 그린델발트 | 피르스트→바흐알프제 10km 트레킹 |
-| 3 | 7/6 (월) | 쉬니게 플라테 · 라우터브루넨 | 알프스 파노라마 전망 + 스타우바흐 폭포 |
-| 4 | 7/7 (화) | 체르마트 | 고르너그라트 철도 + 하이킹 |
-| 5 | 7/8 (수) | 마터호른 | 5 Lakes Walk 14km |
-| 6 | 7/9 (목) | 제네바 → 샤모니 | ★에귀 뒤 미디 3,842m (몽블랑) |
-| 7 | 7/10 (금) | 제네바 | ★AI For Good 컨퍼런스 (오전) + 제트도·구시가지 (오후) |
-| 8 | 7/11 (토) | 귀국 | 08:50 제네바 → 뮌헨 환승 → 인천 (7/12 09:55 도착) |
+| Day | 날짜 | 국가 | 지역 | 핵심 |
+| --- | --- | --- | --- | --- |
+| 1 | 7/4 (토) | 🇨🇭→🇦🇹 | 취리히 → Bregenz | 도착 + 야간 짧은 이동 (1.5h) |
+| 2 | 7/5 (일) | 🇦🇹 오스트리아 | Bregenz → 제펠트 | 오전 이동(2.5h) + 오후 **R1: Seefeld-Wildmoos** |
+| 3 | 7/6 (월) | 🇦🇹 오스트리아 | 제펠트 / 아헨제 | **R2: Achensee Golf** |
+| 4 | 7/7 (화) | 🇦🇹→🇨🇭 | 인스부르크 → 크랑몬타나 | 오전 **R3: Innsbruck-Igls** + 오후 이동(5h) |
+| 5 | 7/8 (수) | 🇨🇭 스위스 | 크랑몬타나 | 오전 **R4: Crans-sur-Sierre** (여유) |
+| 6 | 7/9 (목) | 🇨🇭→🇫🇷→🇨🇭 | 크랑 → 에비앙 → 제네바 | 오전 **R5: Évian Resort** + 오후 제네바 |
+| 7 | 7/10 (금) | 🇨🇭 스위스 | 제네바 | ★AI For Good 컨퍼런스 + 시내 |
+| 8 | 7/11 (토) | 🇨🇭→🇩🇪→🇰🇷 | 제네바 → 뮌헨 → 인천 | 귀국 |
 
 ---
 
 ## 일자별 상세 일정
 
-### Day 1 (7/4 토) — 취리히 도착 · 인터라켄 이동
+### Day 1 (7/4 토) — 취리히 도착 · Bregenz 이동
 
 | 항목 | 내용 |
-|------|------|
-| **주요 일정** | 오후 취리히 도착 후 Swiss Travel Pass 활성화. 인터라켄 오스트 이동, 체크인 후 휴식. |
-| **저녁 추천** | Husi Bierhaus — 생맥주+학센 |
-| **숙소** | Stella Hotel 또는 Weisses Kreuz |
+| --- | --- |
+| **국가** | 🇨🇭 스위스 → 🇦🇹 오스트리아 |
+| **주요 일정** | 15:40 취리히 도착 → 입국·렌터카 픽업(~1.5h) → 17:30 출발 → 19:00경 Bregenz 도착 |
+| **운전** | 취리히 → Bregenz 약 130km, 1.5시간 (A1·A14) |
+| **저녁** | Wirtshaus am See — 보덴 호반 전통 오스트리아 |
+| **숙소** | Bregenz 1박 — Hotel Schwärzler 또는 Mercure Bregenz |
 
-### Day 2 (7/5 일) — 그린델발트 · 피르스트 트레킹
-
-| 항목 | 내용 |
-|------|------|
-| **주요 일정** | First Cliff Walk 체험 후 피르스트→바흐알프제 왕복 10km 트레킹 (5~6시간). |
-| **저녁 추천** | Restaurant Des Alpes — 퐁뒤+슈니첼 |
-| **숙소** | Stella Hotel 또는 Weisses Kreuz |
-
-### Day 3 (7/6 월) — 쉬니게 플라테 · 라우터브루넨
+### Day 2 (7/5 일) — Bregenz → 제펠트 · R1: Seefeld-Wildmoos
 
 | 항목 | 내용 |
-|------|------|
-| **주요 일정** | 오전 쉬니게 플라테 톱니바퀴 열차 탑승, 알프스 식물원 산책 및 아이거·묀히·융프라우 파노라마 조망. 오후 스타우바흐 폭포 가벼운 하이킹. |
-| **저녁 추천** | Coop Restaurant 또는 델리 코너 |
-| **숙소** | Stella Hotel 또는 Weisses Kreuz |
+| --- | --- |
+| **국가** | 🇦🇹 오스트리아 |
+| **오전** | 06:30 Bregenz 출발 → 09:00 제펠트 도착 → 호텔 짐 보관 |
+| **운전** | Bregenz → 제펠트 약 200km, 2.5시간 (A14·A12, 인스부르크 경유) |
+| **오후** | 11:00~11:30 **R1: GC Seefeld-Wildmoos** 티오프 → 16:30 라운드 종료 → 호텔 체크인 |
+| **그린피** | €100-130 |
+| **저녁** | Wildmoos Stüberl 또는 Sir Richard |
+| **숙소** | 제펠트 2박 베이스 — Bergland Hotel 또는 Hotel Wildauer Almhof |
 
-### Day 4 (7/7 화) — 체르마트 이동 · 고르너그라트
-
-| 항목 | 내용 |
-|------|------|
-| **주요 일정** | 인터라켄→체르마트 이동. 고르너그라트 철도 탑승, Rotenboden~Riffelberg 1시간 하이킹. |
-| **저녁 추천** | Restaurant Julen — 구운 양고기+라클렛 |
-| **숙소** | Walliserhof Zermatt 1896 |
-
-### Day 5 (7/8 수) — 마터호른 · 5 Lakes Walk
+### Day 3 (7/6 월) — R2: Achensee Golf
 
 | 항목 | 내용 |
-|------|------|
-| **주요 일정** | 수네가 케이블카→블라우헤르트, 5개 호수 트레킹 14km (5~6시간). 오후 체르마트 시내 휴식. |
-| **저녁 추천** | Saycheese! — 트러플 퐁뒤 |
-| **숙소** | Walliserhof Zermatt 1896 |
+| --- | --- |
+| **국가** | 🇦🇹 오스트리아 |
+| **이동** | 제펠트 → 아헨제 약 1시간 |
+| **라운드** | **Achensee Golf Resort** — 티롤 최대 호수 옆, 9+9홀 |
+| **그린피** | €80-100 |
+| **오후** | 아헨제 호반 산책 또는 보트 |
+| **저녁** | Pertisau / Maurach 호반 식당 |
+| **숙소** | 제펠트 |
 
-### Day 6 (7/9 목) — 제네바 이동 · ★샤모니 몽블랑 당일치기 (프랑스)
+### Day 4 (7/7 화) — R3: Innsbruck-Igls · 크랑몬타나 이동
 
 | 항목 | 내용 |
-|------|------|
-| **오전** | 체르마트→제네바 이동 후 짐 맡기기 |
-| **오후** | 제네바→샤모니 버스 약 1.5시간. ★에귀 뒤 미디 케이블카 (3,842m) 탑승, 몽블랑 조망. |
-| **저녁 추천** | 샤모니 시내 식당 또는 제네바 귀환 후 자유식 |
-| **숙소** | 제네바 공항 인근 ibis Aeroport |
+| --- | --- |
+| **국가** | 🇦🇹 오스트리아 → 🇨🇭 스위스 |
+| **오전** | 07:00 제펠트 출발 → 07:30 인스부르크-Igls 도착 → 08:00 티오프 |
+| **라운드** | **GC Innsbruck-Igls (Lans)** — Donald Harradine 디자인 par 71 |
+| **그린피** | €90-110 |
+| **오후 이동** | 13:00 라운드 종료 → 14:00 출발 → 19:00경 크랑몬타나 도착 |
+| **운전** | 인스부르크 → 크랑몬타나 약 480km, 5시간 (A12·A1·A9, 베른 경유) |
+| **저녁** | 크랑몬타나 도착 후 LeMontBlanc Cuisine 또는 Hotel Etrier 다이닝 |
+| **숙소** | 크랑몬타나 2박 베이스 — Hotel Etrier 또는 Hotel Continental |
+
+### Day 5 (7/8 수) — R4: Crans-sur-Sierre
+
+| 항목 | 내용 |
+| --- | --- |
+| **국가** | 🇨🇭 스위스 |
+| **오전** | **R4: Crans-sur-Sierre Golf Club** — Severiano Ballesteros 코스 · Omega 유러피언 마스터스 개최 |
+| **그린피** | CHF 180-220 (~₩34-42만) |
+| **오후** | 라운드 후 휴식 — 크랑몬타나 시내 산책, 알프스 뷰 카페 |
+| **저녁** | LeMontBlanc Cuisine — 알프스 뷰 다이닝 |
+| **숙소** | 크랑몬타나 |
+
+### Day 6 (7/9 목) — R5: Évian Resort · 제네바 이동
+
+| 항목 | 내용 |
+| --- | --- |
+| **국가** | 🇨🇭 → 🇫🇷 → 🇨🇭 |
+| **오전 이동** | 07:00 크랑몬타나 출발 → 09:00 에비앙 도착 (약 2시간, 발레→레만 호 남안) |
+| **라운드** | **Évian Resort GC** — Evian Championship (LPGA 메이저) 코스. 10:00 티오프 |
+| **그린피** | €180-260 (시즌·티타임별) |
+| **오후 이동** | 라운드 후 에비앙 → 제네바 약 50분 (50km, 레만 호 남안) |
+| **저녁** | Café du Soleil — 전통 퐁뒤 (제네바 명소) |
+| **숙소** | 제네바 1박 (2박 중 첫째) — ibis Geneve Aeroport |
 
 ### Day 7 (7/10 금) — ★AI For Good 컨퍼런스 · 제네바 시내
 
 | 항목 | 내용 |
-|------|------|
-| **오전** | ★AI For Good 컨퍼런스 참석 (마지막날) |
-| **오후** | 제트도(Jet d'Eau) 대분수 140m 감상 → 생피에르 대성당 → 구시가지 산책 |
-| **저녁 추천** | ★Chez Philippe — 자작나무 숯불 스테이크 (미슐랭 빕 구르망, [예약](https://chezphilippe.ch/en/booking/)) |
-| **숙소** | 제네바 공항 인근 ibis Aeroport |
+| --- | --- |
+| **국가** | 🇨🇭 스위스 |
+| **종일** | ★AI For Good 컨퍼런스 참석 (마지막날, ITU 본부 또는 CICG) |
+| **오후** | 컨퍼런스 종료 후 제트도(Jet d'Eau) → 생피에르 대성당 → 구시가지 |
+| **저녁** | ★Chez Philippe — 자작나무 숯불 스테이크 (미슐랭 빕 구르망) |
+| **숙소** | 제네바 (2박째) |
 
 ### Day 8 (7/11 토) — 귀국
 
 | 항목 | 내용 |
-|------|------|
-| **주요 일정** | 08:50 LH 2383 제네바(GVA) T1 출발 → 10:05 뮌헨(MUC) T2 도착. 뮌헨 환승 대기 약 5시간 50분. 15:55 LH 718 뮌헨 출발 → 7/12 (일) 09:55 인천(ICN) T1 도착. |
+| --- | --- |
+| **국가** | 🇨🇭 → 🇩🇪 → 🇰🇷 |
+| **주요 일정** | 06:00 호텔 출발 → 06:30 렌터카 GVA 반납 → 08:50 LH 2383 출발 → 10:05 뮌헨 도착 → 환승 5시간 50분 → 15:55 LH 718 → 7/12 (일) 09:55 인천 도착 |
 
 ---
 
-## 대중교통 이동 계획 (SBB 기준)
+## 골프 코스 상세
 
-| 구간 | 루트 | 소요시간 | 팁 |
-|------|------|----------|-----|
-| 취리히 공항→인터라켄 Ost | Zurich Flughafen→Bern 환승→Interlaken Ost | 약 2시간 15분 | 베른 환승 맞은편 플랫폼, 짐 있어도 비교적 수월 |
-| 인터라켄 Ost→체르마트 | Interlaken Ost→Spiez→Visp→Zermatt (환승 2회) | 약 2시간 15~30분 | Visp 이후 Matterhorn Gotthard Bahn, 진행 방향 오른쪽 좌석 추천 |
-| 체르마트→제네바 | Zermatt→Visp 환승→Geneve | 약 3시간 40분 | Visp에서 제네바행 IC 탑승, 환승 1회로 편안하게 이동 |
-| 제네바→샤모니 | 제네바 버스터미널 또는 투어 버스 (국경 이동, 여권 필수) | 약 1시간 30분 | 에귀 뒤 미디 케이블카 사전 온라인 예약 필수 |
-| 제네바 시내 교통 | Tram / Bus 이용 (Swiss Travel Pass 포함) | 구간별 상이 | 제트도: Tram으로 Jardin Anglais 하차 |
+| # | 날짜 | 코스 | 국가 | 그린피 | 디자이너/특징 | 예약 |
+| --- | --- | --- | --- | --- | --- | --- |
+| R1 | 7/5 오후 | **GC Seefeld-Wildmoos** | 🇦🇹 오스트리아 | €100-130 | 1,200m 고도 알프스 par 71 · 18홀 | [공식](https://www.golf-seefeld.com) |
+| R2 | 7/6 | **Achensee Golf Resort** | 🇦🇹 오스트리아 | €80-100 | 티롤 호반 9+9홀 | [공식](https://www.achenseegolf.at) |
+| R3 | 7/7 오전 | **GC Innsbruck-Igls (Lans)** | 🇦🇹 오스트리아 | €90-110 | Donald Harradine 디자인 par 71 | [공식](https://www.golfclub-innsbruck-igls.at) |
+| R4 | 7/8 오전 | **Crans-sur-Sierre GC** | 🇨🇭 스위스 | CHF 180-220 | Ballesteros 코스 · Omega 유러피언 마스터스 | [공식](https://www.golfcrans.ch) |
+| R5 | 7/9 오전 | **Évian Resort GC** | 🇫🇷 프랑스 | €180-260 | LPGA Evian Championship 메이저 코스 | [공식](https://www.evianresort.com/en/golf/) |
+
+> **티타임 예약**: 모두 7월 성수기 → 출발 60일 전 온라인 예약 권장. Crans-sur-Sierre와 Évian은 메이저 코스라 빠른 매진 가능.
+> **이동 룰**: 모든 이동일은 오전 라운드 → 점심 → 오후 운전 패턴.
 
 ---
 
 ## 숙소 예약
 
-| 지역 | 호텔 | 1박 | 예약 |
-| --- | --- | --- | --- |
-| 인터라켄 3박 | Stella Swiss Quality Hotel ★★★★ | ~₩54만 | [Booking.com](https://www.booking.com/hotel/ch/stella-interlaken.html) · [Agoda](https://www.agoda.com/stella-hotel-interlaken/hotel/interlaken-ch.html) |
-| 인터라켄 3박 (대안1) | Hotel Weisses Kreuz ★★★ | ~₩24-30만 | [Booking.com](https://www.booking.com/hotel/ch/weisses-kreuz-interlaken.html) · [Agoda](https://www.agoda.com/weisses-kreuz/hotel/interlaken-ch.html) |
-| 인터라켄 3박 (대안2) | Hotel Interlaken ★★★★ | ~₩28-35만 | [Booking.com](https://www.booking.com/hotel/ch/interlaken.html) · [Agoda](https://www.agoda.com/interlaken-hotel/hotel/interlaken-ch.html) |
-| 체르마트 2박 | Walliserhof Zermatt 1896 ★★★ | ~₩30-33만 | [Booking.com](https://www.booking.com/hotel/ch/walliserhof-zermatt-1896.html) · [Agoda](https://www.agoda.com/walliserhof-zermatt-1896/hotel/zermatt-ch.html) |
-| 체르마트 2박 (대안) | Zermatt Budget Rooms ★★★ | ~₩25-30만 | [Booking.com](https://www.booking.com/hotel/ch/zermatt-budget-rooms.html) · [Expedia](https://www.expedia.com/Zermatt-Hotels-Zermatt-Budget-Rooms.h16149414.Hotel-Information) |
-| 제네바 2박 | ibis Geneve Aeroport ★★★ | ~₩14-16만 | [Booking.com](https://www.booking.com/hotel/ch/ibis-geneve-aeroport.html) · [Agoda](https://www.agoda.com/ibis-geneve-aeroport/hotel/geneva-ch.html) |
-| 제네바 2박 (대안1) | Nash Airport Hotel ★★★ | ~₩15만 | [Booking.com](https://www.booking.com/hotel/ch/nash-airport.html) · [Agoda](https://www.agoda.com/nash-airport-hotel/hotel/geneva-ch.html) |
-| 제네바 2박 (대안2) | ibis Budget Genève Aéroport ★★ | ~₩10-12만 | [Booking.com](https://www.booking.com/hotel/ch/ibis-budget-gena-ve.html) · [Expedia](https://www.expedia.com/Geneva-Hotels-Ibis-Budget-Geneve-Aeroport.h12318689.Hotel-Information) |
-
-### Airbnb 비교 (7월 성수기 기준)
-
-| 지역 | 호텔 최저 대안 | Airbnb 예상 (1박) | 비고 |
-| --- | --- | --- | --- |
-| 인터라켄 3박 | ~₩24만 (Weisses Kreuz) | ~₩12-20만 (CHF 80-130) | Unterseen·Matten 지역 아파트 저렴, **Airbnb 추천** |
-| 체르마트 2박 | ~₩25만 (Budget Rooms) | ~₩30-45만 (CHF 200-300) | 리조트 타운 특성상 Airbnb가 오히려 비쌈, **호텔 유지** |
-| 제네바 2박 | ~₩10만 (ibis Budget) | ~₩12-18만 (CHF 80-120) | ibis가 이미 저렴 + 공항 셔틀 포함, **호텔 유지** |
-
-> **결론**: 인터라켄만 Airbnb가 절감 효과 있음 (3박 기준 최대 ₩36만 절감 가능). 체르마트·제네바는 현재 호텔 대안이 더 유리.
-
-### 인터라켄 Airbnb 추천 (7/4~7/7, 3박, 2인)
-
-| 지역 | 특징 | 예상 가격 (1박) | 링크 |
-| --- | --- | --- | --- |
-| **Matten bei Interlaken** (Ost역 근처) | Ost역 가까워 그린델발트·체르마트 이동 편리, 알프스·툰 호수 뷰, 스튜디오+주방+테라스 | CHF 70-100 (~₩13-19만) | [Airbnb 검색](https://www.airbnb.com/matten-bei-interlaken-switzerland/stays/apartments) |
-| **Unterseen** (West역 도보 5분) | 구시가지 분위기, 레스토랑 밀집, 묀히·융프라우 전망 발코니 | CHF 80-110 (~₩15-21만) | [Airbnb 검색](https://www.airbnb.com/rooms/25667502) |
-| **인터라켄 시내** (Mountain View) | 아이거·묀히·융프라우 남향 발코니, 주방 완비 | CHF 90-120 (~₩17-23만) | [Airbnb 검색](https://www.airbnb.com/rooms/19610155) |
-
-> **검색 팁**: 날짜 7/4~7/7, 게스트 2명, "Entire place" 필터. **Matten (Ost역 근처) 우선 추천** — Day 2 그린델발트, Day 4 체르마트 이동 모두 Ost역 출발.
+| 지역 | 박 | 국가 | 호텔 | 1박 (2인 1실) | 예약 |
+| --- | --- | --- | --- | --- | --- |
+| Bregenz | 1박 | 🇦🇹 | Hotel Schwärzler ★★★★ | €100-150 (~₩15-23만) | [Booking.com](https://www.booking.com/hotel/at/schwarzler.html) |
+| Bregenz | 1박 (대안) | 🇦🇹 | Mercure Bregenz City ★★★★ | €90-130 (~₩14-20만) | [Booking.com](https://www.booking.com/hotel/at/mercure-bregenz-city.html) |
+| 제펠트 (티롤) | 2박 | 🇦🇹 | Bergland Hotel ★★★★ | €130-170 (~₩20-26만) | [Booking.com](https://www.booking.com/searchresults.html?ss=Seefeld+in+Tirol) |
+| 제펠트 (티롤) | 2박 (대안) | 🇦🇹 | Hotel Wildauer Almhof ★★★ | €100-130 (~₩15-20만) | [Booking.com](https://www.booking.com/searchresults.html?ss=Seefeld+in+Tirol) |
+| 크랑몬타나 | 2박 | 🇨🇭 | Hotel Etrier ★★★★ | CHF 180-230 (~₩34-44만) | [Booking.com](https://www.booking.com/searchresults.html?ss=Crans-Montana) |
+| 크랑몬타나 | 2박 (대안) | 🇨🇭 | Hotel Continental ★★★ | CHF 130-180 (~₩25-34만) | [Booking.com](https://www.booking.com/searchresults.html?ss=Crans-Montana) |
+| 제네바 | 2박 | 🇨🇭 | ibis Geneve Aeroport ★★★ | ~₩14-16만 | [Booking.com](https://www.booking.com/hotel/ch/ibis-geneve-aeroport.html) |
+| 제네바 | 2박 (대안) | 🇨🇭 | ibis Budget Genève Aéroport ★★ | ~₩10-12만 | [Booking.com](https://www.booking.com/hotel/ch/ibis-budget-gena-ve.html) |
 
 ---
 
-## 레스토랑 예약
+## 레스토랑
 
-| Day | 레스토랑 | 메뉴 | 예약 |
-| --- | --- | --- | --- |
-| 1 | Hüsi Bierhaus (인터라켄) | 생맥주 + 학센 | [공식사이트](https://huesi-bierhaus.com/contact/) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188081-d6680291-Reviews-Husi_Bierhaus-Interlaken_Bernese_Oberland_Canton_of_Bern.html) |
-| 2 | Restaurant Des Alpes (인터라켄) | 퐁뒤 + 슈니첼 | [온라인 예약](https://desalpesinterlaken.ch/en/reservation/) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188081-d25184719-Reviews-Des_Alpes_Interlaken_Restaurant_Bar-Interlaken_Bernese_Oberland_Canton_of_Bern.html) |
-| 4 | Restaurant Julen (체르마트) | 구운 양고기 + 라클렛 | [공식사이트](https://www.julen.ch/en/restaurant-julen/) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188098-d1654342-Reviews-Restaurant_Julen-Zermatt_Canton_of_Valais_Swiss_Alps.html) |
-| 5 | Saycheese! (체르마트) | 트러플 퐁뒤 | [TheFork 예약](https://www.thefork.com/restaurant/saycheese-r723843) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188098-d7355246-Reviews-Saycheese-Zermatt_Canton_of_Valais_Swiss_Alps.html) |
-| 7 | ★Chez Philippe (제네바) | 숯불 스테이크 · 뉴욕 그릴 | [공식사이트](https://chezphilippe.ch/en/) · [예약](https://chezphilippe.ch/en/booking/) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g188057-d8796275-Reviews-Chez_Philippe-Geneva.html) |
-
-> Day 3은 Coop/델리 코너로 가볍게, Day 6은 샤모니 시내에서 자유식
-> ★ Day 7 Chez Philippe: 미슐랭 빕 구르망 (Bib Gourmand) 선정. 자작나무 숯불 그릴, 코베 비프·아이리쉬 램 등 최고급 육류. Passage des Lions, Rue du Rhône 8.
-
----
-
-## 변경 일정 상세 안내
-
-### 샤모니 몽블랑 당일치기 (Day 6 · 프랑스)
-
-제네바에서 가장 임팩트 있는 하루. 에귀 뒤 미디(3,842m)에서 몽블랑(4,810m)을 눈앞에서 조망.
-
-- **케이블카 요금**: 성인 왕복 €83 (약 ₩13만). 7월에는 오전 6시 10분부터 운행.
-- **이동**: 제네바→샤모니 버스 약 1.5시간 · 여권 지참 필수 (프랑스 국경 이동)
-- **주의**: 날씨에 따라 케이블카 운휴 가능 · 온라인 사전 예약 강력 권장
+| Day | 도시 | 국가 | 레스토랑 | 특징 |
+| --- | --- | --- | --- | --- |
+| 1 | Bregenz | 🇦🇹 | Wirtshaus am See | 보덴 호반 전통 |
+| 2 | 제펠트 | 🇦🇹 | Wildmoos Stüberl / Sir Richard | 티롤 클래식 / 모던 |
+| 3 | 아헨제 | 🇦🇹 | Pertisau / Maurach 호반 식당 | 호수 뷰 |
+| 4 | 크랑몬타나 | 🇨🇭 | LeMontBlanc Cuisine | 알프스 뷰 |
+| 5 | 크랑몬타나 | 🇨🇭 | Hotel Etrier 다이닝 | 클래식 스위스 |
+| 6 | 제네바 | 🇨🇭 | Café du Soleil | 전통 퐁뒤 |
+| 7 | 제네바 | 🇨🇭 | ★Chez Philippe | 미슐랭 빕 구르망 · 숯불 스테이크 ([예약](https://chezphilippe.ch/en/booking/)) |
 
 ---
 
@@ -197,15 +208,14 @@
 | 소속 | 해외연수 9조 |
 | 컨퍼런스 | AI For Good (제네바, 스위스) |
 | 컨퍼런스 기간 | 7/7 (화) ~ 7/10 (금) |
-| 전체 일정 | 9일 (토요일 출발 시 10일) |
+| 참석 일정 | **7/10 (금) 마지막날만 참석** (7/7~9는 골프 라운드) |
 | 최소 인원 | 10명 이상 (그룹 항공권 예매 요건) |
 | 최대 지원 비용 | 600만원 (항공권 + 체류비 + 기타) |
 
 > **유의사항**
-> - 항공권이 비싼 경우 체류비가 전부 지원되지 않을 수 있음
-> - In & Out 모두 스위스에서 조원 전원 동일하게 진행
-> - 중간에 타 국가 방문은 가능
-> - 타 조 이동 시 인원 교환 방식 권장
+>
+> - 항공 In/Out 모두 스위스 (취리히 in / 제네바 out) — 충족
+> - 중간에 타 국가 방문은 가능 (오스트리아·프랑스 차량 이동 OK)
 
 ---
 
@@ -217,78 +227,87 @@
 | --- | --- |
 | 인천→취리히 LX 123 + 제네바→뮌헨→인천 LH 2383/718 (이코노미) | ~₩130-180만 |
 
-> 그룹 항공권 (10명 이상) 시 할인 가능. 7월 성수기 기준 추정.
+### 렌터카 (2인 분담 — 1인 부담분)
 
-### 교통
-
-| 항목 | 금액 | 비고 |
+| 항목 | 총액 (2인) | 1인 부담 |
 | --- | --- | --- |
-| Swiss Travel Pass 8일 (2등석) | CHF 439 (~₩83만) | 전 구간 열차·버스·트램·유람선 포함 |
+| 편도 렌터카 7일 + 풀 보험 + 비넷 + 톨 | ~₩90-130만 | **~₩45-65만** |
 
 ### 숙소 (7박, 2인 1실 — 1인 부담분)
 
-| 옵션 | 인터라켄 3박 | 체르마트 2박 | 제네바 2박 | 1인 합계 |
-| --- | --- | --- | --- | --- |
-| **절약형** | Airbnb ~₩15만×3 | Budget Rooms ~₩25만×2 | ibis Budget ~₩10만×2 | **~₩57만** |
-| **가성비형** | Weisses Kreuz ~₩24만×3 | Budget Rooms ~₩25만×2 | ibis ~₩14만×2 | **~₩75만** |
-| **표준형** | Stella ~₩54만×3 | Walliserhof ~₩30만×2 | ibis ~₩14만×2 | **~₩118만** |
+| 옵션 | Bregenz 1박 | 제펠트 2박 | 크랑몬타나 2박 | 제네바 2박 | 1인 합계 |
+| --- | --- | --- | --- | --- | --- |
+| **가성비형** | €110 = ₩17만 | €110×2 = ₩34만 | CHF 150×2 = ₩57만 | ₩12만×2 = ₩24만 | **~₩66만** |
+| **표준형** | €140 = ₩22만 | €150×2 = ₩47만 | CHF 200×2 = ₩76만 | ₩15만×2 = ₩30만 | **~₩88만** |
 
-> 위 금액은 2인 1실 기준 룸 요금. 1인 부담분 = 합계 ÷ 2
+> 1인 부담분 = 룸 합계 ÷ 2
 
-### 액티비티 · 입장료
+### 그린피 (1인 5라운드)
 
-| 항목 | 금액 | 비고 |
-| --- | --- | --- |
-| 에귀 뒤 미디 케이블카 왕복 (Day 6) | €83 (~₩13만) | 사전 온라인 예약 |
-| 고르너그라트 철도 (Day 4) | CHF 75 (~₩14만) | Swiss Pass 50% 할인 적용가 |
-| 수네가 케이블카 (Day 5) | CHF 25 (~₩5만) | Swiss Pass 50% 할인 적용가 |
-| 쉬니게 플라테 열차 (Day 3) | CHF 32 (~₩6만) | Swiss Pass 할인 적용가 |
-| **소계** | | **~₩38만** |
+| 라운드 | 코스 | 국가 | 그린피 |
+| --- | --- | --- | --- |
+| R1 | Seefeld-Wildmoos | 🇦🇹 | €115 (~₩18만) |
+| R2 | Achensee Golf | 🇦🇹 | €90 (~₩14만) |
+| R3 | Innsbruck-Igls | 🇦🇹 | €100 (~₩16만) |
+| R4 | Crans-sur-Sierre | 🇨🇭 | CHF 200 (~₩38만) |
+| R5 | Évian Resort | 🇫🇷 | €220 (~₩34만) |
+| **소계** | | | **~₩120만** |
+
+> 카트·캐디 별도 시 라운드당 €30-60 추가 가능.
 
 ### 식비 (7일)
 
 | 항목 | 1일 평균 | 7일 합계 |
 | --- | --- | --- |
-| 점심 (Coop·Migros 테이크아웃) | CHF 15-20 (~₩3-4만) | ~₩21-28만 |
-| 저녁 (레스토랑) | CHF 40-60 (~₩8-11만) | ~₩56-77만 |
-| **소계** | ~₩11-15만/일 | **~₩77-105만** |
+| 점심 (클럽하우스 또는 가벼운 식사) | €15-25 (~₩2-4만) | ~₩14-28만 |
+| 저녁 (레스토랑) | €40-70 / CHF 50-80 (~₩6-15만) | ~₩42-105만 |
+| **소계** | ~₩8-19만/일 | **~₩56-133만** |
+
+> 오스트리아 4일은 스위스/프랑스 대비 30% 저렴.
 
 ### 기타
 
 | 항목 | 금액 |
 | --- | --- |
 | 여행자 보험 | ~₩5만 |
-| 관광세 (Tourist Tax) | ~₩5만 |
+| 클럽 렌탈 (현지 대여 시) | ~₩20-30만 (선택) |
 | 기념품 · 간식 · 커피 | ~₩10-20만 |
-| **소계** | **~₩20-30만** |
+| **소계** | **~₩15-55만** |
 
 ### 1인 총 비용 요약
 
-| 옵션 | 항공 | 교통 | 숙소 | 액티비티 | 식비 | 기타 | **합계** |
+| 옵션 | 항공 | 렌터카 | 숙소 | 그린피 | 식비 | 기타 | **합계** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **절약형** | ₩130만 | ₩83만 | ₩57만 | ₩38만 | ₩77만 | ₩20만 | **~₩405만** |
-| **가성비형** | ₩150만 | ₩83만 | ₩75만 | ₩38만 | ₩90만 | ₩25만 | **~₩461만** |
-| **표준형** | ₩180만 | ₩83만 | ₩118만 | ₩38만 | ₩105만 | ₩30만 | **~₩554만** |
+| **가성비형** | ₩130만 | ₩45만 | ₩66만 | ₩120만 | ₩70만 | ₩15만 | **~₩446만** |
+| **표준형** | ₩150만 | ₩55만 | ₩88만 | ₩120만 | ₩95만 | ₩30만 | **~₩538만** |
+| **고급형** | ₩180만 | ₩65만 | ₩110만 | ₩150만 | ₩130만 | ₩50만 | **~₩685만** |
 
-> 해외연수 최대 지원 600만원 기준: 절약형·가성비형은 지원금 내 충분, 표준형도 범위 내.
-> 항공권이 비싸질 경우 숙소를 절약형으로 조정하면 총액 관리 가능.
+> 해외연수 최대 지원 600만원 기준: 가성비형·표준형은 지원금 내. 고급형은 자부담 일부 발생.
 
 ---
 
 ## 사전 예약 체크리스트
 
 - [x] 항공권 확정 (LX 123 / LH 2383 / LH 718)
-- [ ] [Swiss Travel Pass 구매](https://www.swiss-system.com/en/swiss-travel-pass)
-- [ ] 숙소 예약 (위 링크)
-- [ ] 쉬니게 플라테 열차 시간 확인 (Day 3, Swiss Travel Pass 할인 적용)
-- [ ] [에귀 뒤 미디 케이블카 예약 (Day 6)](https://www.montblancnaturalresort.com/en/aiguille-du-midi)
-- [ ] SBB Mobile 앱 설치
+- [ ] **렌터카 편도 예약** (ZRH 픽업 / GVA 반납, SUV/왜건)
+- [ ] **5라운드 티타임 예약** (60일 전 권장)
+  - [ ] R1 GC Seefeld-Wildmoos (7/5 오후)
+  - [ ] R2 Achensee Golf (7/6)
+  - [ ] R3 GC Innsbruck-Igls (7/7 오전)
+  - [ ] R4 Crans-sur-Sierre (7/8 오전)
+  - [ ] R5 Évian Resort (7/9 오전)
+- [ ] 숙소 예약 (Bregenz 1박 / 제펠트 2박 / 크랑몬타나 2박 / 제네바 2박)
+- [ ] 국제운전면허증 발급
+- [ ] 골프백 항공 위탁 정책 확인 (LX/LH 모두 23kg 이내 무료, 골프백 추가 수수료 정책 별도)
+- [ ] AI For Good 7/10 참석 등록
+- [ ] Chez Philippe 예약 (7/10 저녁)
 
 ## 실전 체크포인트
 
-- [ ] **날씨 변수**: Day 2·5는 오전 일찍 출발, 우천 시 시내 전환
-- [ ] **체력 배분**: Day 2·5 고강도 → Day 3·4는 무릎 휴식
-- [ ] **식비 전략**: 점심 Coop·Migros 활용, 저녁만 목적지 식당
-- [ ] **고르너그라트·수네가 케이블카**: 첫 타임 선점 필수
-- [ ] **샤모니행 (Day 6)**: 여권 지참 필수 (국경 이동), 날씨 전날 체크
-- [ ] **Swiss Travel Pass**: 제네바 시내 트램 포함 전 구간 이용 가능
+- [ ] **이동 룰**: 모든 이동은 오전 라운드 → 점심 → 오후 운전 패턴
+- [ ] **7/4 야간 운전**: 1.5시간으로 짧지만 시차+피로 → 운전자 교대
+- [ ] **7/7 빡빡**: 오전 라운드 + 오후 5시간 운전 → 휴게소 1~2회 정차
+- [ ] **국경 이동**: 오스트리아·스위스·프랑스·독일 — 셴겐 권역이지만 여권 지참
+- [ ] **비넷(고속도로)**: 스위스(CHF 40, 1년) · 오스트리아(€11.50, 10일) — 렌터카 포함 여부 확인
+- [ ] **고도 적응**: Seefeld 1,200m, Crans 1,500m — 첫 라운드 페이스 조절
+- [ ] **날씨**: 알프스 7월 오후 천둥번개 → 오전 티타임 우선 (5라운드 모두 오전 또는 정오 전 티오프)
