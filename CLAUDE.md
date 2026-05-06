@@ -9,11 +9,11 @@
 
 ## 동선
 
-취리히 도착 → Bregenz(오스트리아) 1박 → 제펠트(티롤) 2박 → 크랑몬타나(스위스) 2박 → 제네바 2박 → 제네바 출국 (4국 순회)
+취리히 도착 → Bregenz(오스트리아) 1박 → 제펠트(티롤) 2박 → 안시(프랑스) 2박 → 제네바 2박 → 제네바 출국 (3국 순회, 스위스 박 최소)
 
 ## 라운드 (5R)
 
-R1 Seefeld-Wildmoos(🇦🇹) · R2 Achensee Golf(🇦🇹) · R3 Innsbruck-Igls(🇦🇹) · R4 Crans-sur-Sierre(🇨🇭) · R5 Évian Resort(🇫🇷)
+R1 Seefeld-Wildmoos(🇦🇹) · R2 Achensee Golf(🇦🇹) · R3 Innsbruck-Igls(🇦🇹) · R4 Megève GC(🇫🇷) · R5 Évian Resort(🇫🇷)
 
 이동 룰: 모든 이동은 오전 라운드 → 점심 → 오후 운전
 
@@ -30,6 +30,7 @@ R1 Seefeld-Wildmoos(🇦🇹) · R2 Achensee Golf(🇦🇹) · R3 Innsbruck-Igls
 
 ## 변경 이력
 
+- v5: 크랑몬타나 제외, 안시(프랑스) 베이스 2박 + Megève 데이트립 추가. 스위스 라운드 0회, 스위스 박 제네바 2박만. 안시 미슐랭 1스타 옵션
 - v4: 골프 트립으로 전면 재구성 (5라운드, 4국 순회, 렌터카, 트레킹/체르마트 폐기, 7/4 Bregenz 1박)
 - v3: 버전 마커만 갱신 (계획 변경 진행 중)
 - v2: Day 6 라보 포도밭 → 파텍 필립 뮤지엄, Day 7 CERN → 샤모니 몽블랑 당일치기
