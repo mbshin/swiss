@@ -30,7 +30,8 @@ R1 Seefeld-Wildmoos(🇦🇹) · R2 Achensee Golf(🇦🇹) · R3 Innsbruck-Igls
 
 ## 변경 이력
 
-- v3: 골프 트립으로 전면 재구성 (5라운드, 4국 순회, 렌터카, 트레킹/체르마트 폐기, 7/4 Bregenz 1박)
+- v4: 골프 트립으로 전면 재구성 (5라운드, 4국 순회, 렌터카, 트레킹/체르마트 폐기, 7/4 Bregenz 1박)
+- v3: 버전 마커만 갱신 (계획 변경 진행 중)
 - v2: Day 6 라보 포도밭 → 파텍 필립 뮤지엄, Day 7 CERN → 샤모니 몽블랑 당일치기
 - Day 3 패러글라이딩 → 쉬니게 플라테 (톱니바퀴 열차 파노라마 전망대)
 - 각 지역별 가성비 호텔 대안 추가 (Hotel Interlaken, Zermatt Budget Rooms, ibis Budget Genève Aéroport)
