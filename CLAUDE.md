@@ -24,6 +24,7 @@
 
 ## 변경 이력
 
+- v3: 계획 대폭 변경 (진행 중)
 - v2: Day 6 라보 포도밭 → 파텍 필립 뮤지엄, Day 7 CERN → 샤모니 몽블랑 당일치기
 - Day 3 패러글라이딩 → 쉬니게 플라테 (톱니바퀴 열차 파노라마 전망대)
 - 각 지역별 가성비 호텔 대안 추가 (Hotel Interlaken, Zermatt Budget Rooms, ibis Budget Genève Aéroport)
