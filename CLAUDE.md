@@ -9,13 +9,19 @@
 
 ## 동선
 
-취리히 도착 → Bregenz(오스트리아) 1박 → 제펠트(티롤) 2박 → 안시(프랑스) 2박 → 제네바 2박 → 제네바 출국 (3국 순회, 스위스 박 최소)
+취리히 도착 → **크랑몬타나(스위스, 골프 호텔) 2박** → 안시(프랑스) 3박 → 제네바 2박 → 제네바 출국 (2국, 베른 스킵)
 
 ## 라운드 (5R)
 
-R1 Seefeld-Wildmoos(🇦🇹) · R2 Achensee Golf(🇦🇹) · R3 Innsbruck-Igls(🇦🇹) · R4 Megève GC(🇫🇷) · R5 Évian Resort(🇫🇷)
+R1 Crans-sur-Sierre Championship(🇨🇭, 7/5 오후) · R2 Crans-sur-Sierre 재플레이/9홀(🇨🇭, 7/6 오전) · R3 Esery GC(🇫🇷, 7/7) · R4 Megève GC(🇫🇷, 7/8) · R5 Évian Resort(🇫🇷, 7/9)
 
-이동 룰: 모든 이동은 오전 라운드 → 점심 → 오후 운전
+이동 룰: 라운드 있는 이동일은 오전 라운드 → 점심 → 오후 운전. **7/5만 예외 — 도착 +1일 시차 회복용 오후 라운드(13:30 티오프)**
+
+## 숙소 정책
+
+- 골프장 on-site 호텔 활용: **Crans Helvetia Intergolf 2박**만 적용
+- **럭셔리 호텔 제외**: Le Crans(5★), Le Chalet du Mont d'Arbois(Rothschild), Four Seasons Megève, Hôtel Ermitage/Royal Evian
+- Megève·Évian은 럭셔리만 존재 → 안시 3박 거점 데이트립 처리
 
 ## 항공
 
@@ -30,6 +36,10 @@ R1 Seefeld-Wildmoos(🇦🇹) · R2 Achensee Golf(🇦🇹) · R3 Innsbruck-Igls
 
 ## 변경 이력
 
+- v9: **럭셔리 호텔 제외** — Mont d'Arbois Rothschild·Évian Ermitage 등 5★ 빼고, on-site는 Crans Helvetia Intergolf(4★)만 유지. Megève·Évian은 안시 3박 데이트립으로 복귀
+- v8: **베른 스킵** — 7/4 ZRH 도착 즉시 Crans 직행(4h, 산악 도로 일몰 직전 도착), Helvetia Intergolf 2박 연속으로 7/5 시차 회복 + R1·R2 도보 5분
+- v7: 골프장 on-site 호텔 활용 시도 (Crans·Megève·Évian) — 럭셔리 부담으로 v9에서 일부 롤백
+- v6: Tirol(Bregenz·Seefeld·Achensee) 폐기 → R1·R2를 Crans-sur-Sierre 2일 연속(European Masters 개최)로 부활. 안시 3박 거점 + R3 Esery 추가. 5R = Crans×2 + Esery + Megève + Évian. 운전 14h → 11.7h
 - v5: 크랑몬타나 제외, 안시(프랑스) 베이스 2박 + Megève 데이트립 추가. 스위스 라운드 0회, 스위스 박 제네바 2박만. 안시 미슐랭 1스타 옵션
 - v4: 골프 트립으로 전면 재구성 (5라운드, 4국 순회, 렌터카, 트레킹/체르마트 폐기, 7/4 Bregenz 1박)
 - v3: 버전 마커만 갱신 (계획 변경 진행 중)
